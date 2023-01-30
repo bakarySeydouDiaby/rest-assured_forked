@@ -1,0 +1,32 @@
+chatgpt : pull request in action
+
+	Here is a step-by-step process to create a pull request on GitHub:
+
+	- Fork the repository you want to contribute to. 
+		This creates a copy of the repository under your GitHub account. 
+
+
+	- Clone the forked repository to your local machine using Git.
+
+	- Create a new branch in your local repository to make changes.
+
+	- Make changes and commit them to the new branch.
+
+	- Push the changes to your forked repository on GitHub.
+
+	- On the GitHub website, navigate to the original repository and click on the "Compare & pull request" button.
+
+	- Review the changes you have made and write a descriptive message explaining the purpose of the changes.
+
+	- Submit the pull request and wait for the repository maintainer to review and merge the changes.
+
+	Note: The exact steps may vary slightly depending on the repository, but this is the basic process for creating a pull request on GitHub.
+
+	projet test : 
+		https://github.com/rest-assured/rest-assured
+
+	emplacement : C:\1_bakary\1_devops_2023\6_github
+	github fork ==> bakarySeydouDiaby/rest-assured_forked
+	
+	$ git clone https://github.com/bakarySeydouDiaby/rest-assured_forked.git
+	git branch test
